@@ -247,7 +247,7 @@ translate english start_8ab0e802:
     # voice "voice_1_29k.wav"
     # k "話說我們等下去哪裡吃好呢？魔法區最近有新開的餐廳要不要試試？"
     voice "voice_1_29k.wav"
-    k "By the way, where should be have dinner? Do you want to try the new restaurant in the Magic Quartrer?"
+    k "By the way, where should be have dinner? Do you want to try the new restaurant in the Magic Quarter?"
 
 # game/script.rpy:122
 translate english start_dbe2a3a2:
