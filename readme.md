@@ -18,7 +18,14 @@
 凡泰爾：基於祈奧馬設計
 
 ### 素材
-- 效果音： OtoLogicの素材を使用している https://otologic.jp/
+#### 效果音
+ OtoLogicの素材を使用している https://otologic.jp/
+#### BGM
+- Woods Of Imagination | Alexander Nakarada | https://pixabay.com/music/main-title-woods-of-imagination-228677/
+- Cinematic Music - Epic Music | Angelika728 | https://pixabay.com/music/titulo-principal-cinematic-music-epic-music-270904/
+- Dubstep - Orchestrated Chaos | AntipodeanWriter | https://pixabay.com/music/dubstep-dubstep-orchestrated-chaos-13038/
+- A nostalgic memory of Ireland | Alban_Gogh | https://pixabay.com/music/nostalgia-a-nostalgic-memory-of-ireland-291622/
+- Confused Mind  | Liecio Rodriguez | https://pixabay.com/music/eccentric-quirky-confused-mind-liecio-rodriguez-109765/
 
 
 # Visual novel for Kioma 1st anniversary video
@@ -41,4 +48,12 @@ Kioma: F.S.T http://x.com/fst9990
 Vatar: Based on Kioma's design
 
 ### Materials
-- Effect sound: OtoLogicの素材を使用している https://otologic.jp/
+#### Effect sound
+OtoLogicの素材を使用している https://otologic.jp/
+
+#### BGM
+- Woods Of Imagination | Alexander Nakarada | https://pixabay.com/music/main-title-woods-of-imagination-228677/
+- Cinematic Music - Epic Music | Angelika728 | https://pixabay.com/music/titulo-principal-cinematic-music-epic-music-270904/
+- Dubstep - Orchestrated Chaos | AntipodeanWriter | https://pixabay.com/music/dubstep-dubstep-orchestrated-chaos-13038/
+- A nostalgic memory of Ireland | Alban_Gogh | https://pixabay.com/music/nostalgia-a-nostalgic-memory-of-ireland-291622/
+- Confused Mind  | Liecio Rodriguez | https://pixabay.com/music/eccentric-quirky-confused-mind-liecio-rodriguez-109765/

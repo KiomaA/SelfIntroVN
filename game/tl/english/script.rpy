@@ -279,7 +279,7 @@ translate english start_cfb4661b:
     # voice "voice_1_33.wav"
     # "本以為這樣的日子會一直下去……"
     voice "voice_1_33.wav"
-    "I thought my life will be always like this..."
+    "They thought these days will continue just as usual..."
 
 # game/script.rpy:140
 translate english start_3be0815e:
@@ -303,7 +303,7 @@ translate english start_df64bf12:
     # voice "voice_2_2p.wav"
     # p "可惡！這些黑魔法師整天只會搞破壞，現在還想逼我讓出王位？豈有此理！"
     voice "voice_2_2p.wav"
-    p "Preposterous! These dark wizards keep destroying thing and now the want to hand over the throne?"
+    p "Preposterous! These dark wizards keep destroying and now the want me to hand over the throne?"
 
 # game/script.rpy:154
 translate english start_c69fc092:
@@ -377,7 +377,7 @@ translate english start_20ce9035:
     # voice "voice_2_9k.wav"
     # k "可以將陛下傳送到深山的行宮暫避，附近已經設定了多重結界，黑魔法師會更難以入侵"
     voice "voice_2_9k.wav"
-    k "We could send you to a residence in the mountains where multiple layers of protection have been set up. Dark mages will be harder to invade."
+    k "We could send you to a residence in the mountains where multiple layers of protection have been set up. Dark wizards will be harder to invade."
 
 # game/script.rpy:197
 translate english start_78dc7951:
@@ -385,7 +385,7 @@ translate english start_78dc7951:
     # voice "voice_2_10p.wav"
     # p "什麼？如果身為國王的我也棄守皇城，人民會怎樣想我？"
     voice "voice_2_10p.wav"
-    p "What? If me as a king have left the capital, what will be people think?"
+    p "What? If me as a king have abandoned the capital, what would be people think?"
 
 # game/script.rpy:200
 translate english start_ae3b75b5:
