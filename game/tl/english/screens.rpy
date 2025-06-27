@@ -326,3 +326,11 @@ translate english strings:
     old "選單"
     new "Menu"
 
+# TODO: Translation updated at 2025-06-27 12:35
+
+translate english strings:
+
+    # game/screens.rpy:739
+    old "Language"
+    new ""
+

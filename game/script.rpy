@@ -545,7 +545,7 @@ label start:
     k "……"
 
     voice "voice_5_3m.wav" #滑鼠聲
-    m "你終於醒了！你還好嗎？"
+    mq "你終於醒了！你還好嗎？"
 
     show kioma surprised
     voice "voice_5_4k.wav"

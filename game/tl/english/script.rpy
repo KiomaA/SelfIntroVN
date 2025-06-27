@@ -31,7 +31,7 @@ translate english start_958b9cbe:
     # voice "voice_1_2.wav"
     # "去到一個會理解魔法、以魔法為本的世界……"
     voice "voice_1_2.wav"
-    "Where a world full of magic"
+    "To a world full of magic"
 
 # game/script.rpy:25
 translate english start_1161c895:
@@ -385,7 +385,7 @@ translate english start_78dc7951:
     # voice "voice_2_10p.wav"
     # p "什麼？如果身為國王的我也棄守皇城，人民會怎樣想我？"
     voice "voice_2_10p.wav"
-    p "What? If me as a king have abandoned the capital, what would be people think?"
+    p "What? If me as a king have abandoned the capital, what would the people think?"
 
 # game/script.rpy:200
 translate english start_ae3b75b5:
@@ -409,7 +409,7 @@ translate english start_95b0bc65:
     # voice "voice_2_13p.wav"
     # p "怎知現在敵軍竟然煽動黑魔法師叛亂，企圖用黑魔法破壞王國？！"
     voice "voice_2_13p.wav"
-    p "But now they have teamed up with dark wizards and trying to destroy the kingdom with dark magic!"
+    p "But now they have teamed up with dark wizards and are trying to destroy the kingdom with dark magic!"
 
 # game/script.rpy:209
 translate english start_913da0f4:
@@ -433,7 +433,7 @@ translate english start_f0ba50bd:
     # voice "voice_2_16p.wav"
     # p "亞瑟王啊，我罪該萬死，現在我要暫時離開皇城了"
     voice "voice_2_16p.wav"
-    p "King Arthur, I am guilty! Now I am going to leave the capital..."
+    p "King Arthur, I am guilty! Now I have to leave the capital for a while..."
 
 # game/script.rpy:220
 translate english start_b63405fc:
@@ -441,7 +441,7 @@ translate english start_b63405fc:
     # voice "voice_2_17p.wav"
     # p "請繼續看守皇城不要讓黑魔法師得逞……"
     voice "voice_2_17p.wav"
-    p "Please protect the capital and not let these dark wizards take over..."
+    p "Please keep protecting the capital and not let these dark wizards to take over..."
 
 # game/script.rpy:223
 translate english start_c8ea8a4a:
@@ -455,7 +455,7 @@ translate english start_05460ecd:
     # voice "voice_2_18k.wav"
     # k "現在送了國王去安全的地方了，其他人還安好嗎？"
     voice "voice_2_18k.wav"
-    k "We have sent the King to a safe location. Is everyone alright?"
+    k "Now we have sent the King to a safe location. Is everyone alright?"
 
 # game/script.rpy:235
 translate english start_55cae2cc:
@@ -605,7 +605,7 @@ translate english start_95b98fa1:
     # voice "voice_3_9t.wav"
     # t "你看看其他國家，魔法師要麼就是統治國家要麼就是被麻瓜清算！"
     voice "voice_3_9t.wav"
-    t "In other countries, wizards either RULE the country or being KILLED by the muggles!"
+    t "See? In other countries, wizards either RULE the country or being WIPED UP by the muggles!"
 
 # game/script.rpy:309
 translate english start_0be8cc38:
@@ -621,7 +621,7 @@ translate english start_35d12bc7:
     # voice "voice_3_11k.wav"
     # k "什麼歪理，我們國王才不會說這樣的話！"
     voice "voice_3_11k.wav"
-    k "That's absurd! Our king would never say that!"
+    k "That's absurd! Our king would never say something like that!"
 
 # game/script.rpy:317
 translate english start_13207527:
@@ -653,7 +653,7 @@ translate english start_0fbbf988:
     # voice "voice_3_15k.wav"
     # k "當其他國家在排斥魔法師的時候，是哪個國家願意收留被迫害的魔法師的？"
     voice "voice_3_15k.wav"
-    k "When mages are being oppressed in other countries, WHICH country is willing to accept them?"
+    k "When mages are being oppressed in other countries, WHICH country is still willing to accept them?"
 
 # game/script.rpy:329
 translate english start_a45efba9:
@@ -661,7 +661,7 @@ translate english start_a45efba9:
     # voice "voice_3_16k.wav"
     # k "你們這些只顧自己利益的黑魔法師們，才沒有資格統治卡美洛！"
     voice "voice_3_16k.wav"
-    k "You dark wizards only think of yourselves and therefore you don't deserve ruling Camelot!"
+    k "You dark wizards only think of yourselves and therefore you don't deserve to rule Camelot!"
 
 # game/script.rpy:332
 translate english start_8da23aa4:
@@ -701,7 +701,7 @@ translate english start_32180512:
     # voice "voice_3_21k.wav"
     # k "（這樣的牢籠應該足夠包圍這些敵軍了吧？）"
     voice "voice_3_21k.wav"
-    k "(A prison this big should be enough to surround all enemies?)"
+    k "(A cage this big should be enough to surround all the enemies?)"
 
 # game/script.rpy:357
 translate english start_9757bd33:
@@ -709,7 +709,7 @@ translate english start_9757bd33:
     # voice "voice_3_22k.wav"
     # k "Sæpaćika, Kævønja!（空間，混亂起來吧！）"
     voice "voice_3_22k.wav"
-    k "Sæpaćika, Kævønja! (Space, become chaotic!)"
+    k "Sæpaćika, Kævønja! (Space, be chaotic!)"
 
 # game/script.rpy:364
 translate english start_c0d32151:
@@ -739,7 +739,7 @@ translate english start_d97cf3bb:
     # voice "voice_3_25k.wav"
     # k "（敵軍逐漸被牢籠裡扭曲的空間撕碎……）"
     voice "voice_3_25k.wav"
-    k "(Enemies were torn apart by the chaotic space in the prison...)"
+    k "(Enemies were ripped apart by the warped space in the cage...)"
 
 # game/script.rpy:380
 translate english start_0a6191be:
@@ -755,7 +755,7 @@ translate english start_23970cd6:
     # voice "voice_3_27k.wav"
     # k "咦？怎麼地板歪歪的？難道空間出現破洞？"
     voice "voice_3_27k.wav"
-    k "Wait, why is the floor tilted? Did I created a spatial hole?"
+    k "Wait, why is the floor tilted? Did a spatial hole just appeared?"
 
 # game/script.rpy:388
 translate english start_684f6d12:
@@ -785,7 +785,7 @@ translate english start_ddbf32b9:
     # voice "voice_4_1z.wav"
     # "媽媽" "祈奧馬、凡泰爾，爸爸媽媽要去前線作戰，抵抗黑魔法師的入侵"
     voice "voice_4_1z.wav"
-    "Mother" "Kioma, Vatar, Mum and Dad are going to the front lines and fight the dark wizards."
+    "Mum" "Kioma, Vatar, Mum and Dad are going to the front lines and fight the dark wizards."
 
 # game/script.rpy:414
 translate english start_32b0276a:
@@ -793,7 +793,7 @@ translate english start_32b0276a:
     # voice "voice_4_2z.wav"
     # "媽媽" "等下送你們去香爐山的阿姨那邊住，你們要乖，要對阿姨有禮貌喔！"
     voice "voice_4_2z.wav"
-    "Mother" "We will send you to auntie's home in Mount Incense. Be polite to auntie!"
+    "Mum" "We will send you to auntie's home in Mount Incense. Make sure to be polite to auntie!"
 
 # game/script.rpy:419
 translate english start_442941ca_1:
@@ -815,7 +815,7 @@ translate english start_41a19ce2:
     # voice "voice_4_4k.wav"
     # k "沿著這條街走，應該去到阿姨家吧？"
     voice "voice_4_4k.wav"
-    k "If I walk this way, it should be auntie's home right?"
+    k "Auntie's home should be this way, right?"
 
 # game/script.rpy:430
 translate english start_d67c0668:
@@ -837,7 +837,7 @@ translate english start_b88b4909:
     # voice "voice_4_6k.wav"
     # k "終於回到卡美洛了，我要在魔法學院好好修讀魔法！"
     voice "voice_4_6k.wav"
-    k "Now I'm back in Camelot! I want to study magic in the Magic Institute!"
+    k "I'm back in Camelot! Hope I could learn a lot of magic in the Magic Institute!"
 
 # game/script.rpy:447
 translate english start_81a997f6:
@@ -845,7 +845,7 @@ translate english start_81a997f6:
     # voice "voice_4_7k.wav"
     # k "話說凡泰爾已經回到老家跟爸爸學習戰術了，那邊還好嗎？"
     voice "voice_4_7k.wav"
-    k "I heard that Vatar has returned to hometown and learned battle tactics with Dad. Is he doing fine?"
+    k "I heard that Vatar has returned to hometown and is learning battle tactics with Dad. Is he doing fine?"
 
 # game/script.rpy:450
 translate english start_868e0270:
@@ -853,7 +853,7 @@ translate english start_868e0270:
     # voice "voice_4_8k.wav"
     # k "等下寫封信給他吧？"
     voice "voice_4_8k.wav"
-    k "Maybe write a letter later?"
+    k "Maybe I should write a letter later?"
 
 # game/script.rpy:457
 translate english start_442941ca_3:
@@ -923,7 +923,7 @@ translate english start_2453318e:
     # voice "voice_4_16v.wav"
     # v "我也不知道為什麼……不過劍術的部分我可以跟你一起練習？"
     voice "voice_4_16v.wav"
-    v "I don't know why too... Maybe I could help you on the practice?"
+    v "I don't know why too... Maybe I could help you to practice?"
 
 # game/script.rpy:493
 translate english start_e5f1bb01:
@@ -931,7 +931,7 @@ translate english start_e5f1bb01:
     # voice "voice_4_17k.wav"
     # k "好吧……就這樣吧……"
     voice "voice_4_17k.wav"
-    k "Okay, maybe just try praticing..."
+    k "Okay, maybe just try practicing..."
 
 # game/script.rpy:502
 translate english start_442941ca_4:
@@ -953,7 +953,7 @@ translate english start_a08cafb3:
     # voice "voice_4_19k.wav"
     # k "看地形好像是香爐山，但是感覺怪怪的？"
     voice "voice_4_19k.wav"
-    k "It looks like Mount Incense, but it look weird?"
+    k "The landscape looks like Mount Incense, but it look weird?"
 
 # game/script.rpy:517
 translate english start_cb985fc5:
@@ -995,7 +995,7 @@ translate english start_22fe4adc:
     # voice "voice_5_2m.wav"
     # mq "一個從異世界來的魔法師會在這個時候被傳送過來這裡！"
     voice "voice_5_2m.wav"
-    mq "A mage from another world will be transported here at this time!"
+    mq "A mage from another world will be transferred here at this time!"
 
 # game/script.rpy:545
 translate english start_cac6f822_2:
@@ -1009,7 +1009,7 @@ translate english start_5c7a83d3:
     # voice "voice_5_3m.wav" 
     # m "你終於醒了！你還好嗎？"
     voice "voice_5_3m.wav" 
-    m "You're finally awake! Are you OK?"
+    mq "You're finally awake! Are you OK?"
 
 # game/script.rpy:551
 translate english start_ef5bdd41:
@@ -1025,7 +1025,7 @@ translate english start_a4e65e5f:
     # voice "voice_5_5k.wav"
     # k "剛才好像有什麼東西但是我記不起來……"
     voice "voice_5_5k.wav"
-    k "I just saw something but I couldn't recall it..."
+    k "I feel something happened but I couldn't recall it..."
 
 # game/script.rpy:557
 translate english start_609020f3:
@@ -1033,7 +1033,7 @@ translate english start_609020f3:
     # voice "voice_5_6k.wav"
     # k "只記得啊一聲就從上面摔下來了"
     voice "voice_5_6k.wav"
-    k "I just remember that I fell from above"
+    k "I just remember that I've just fell from above"
 
 # game/script.rpy:560
 translate english start_c80a52b2:
@@ -1089,7 +1089,7 @@ translate english start_eb04146f:
     # voice "voice_5_13m.wav"
     # m "（奇怪了，明明應該是這裡沒錯吧？）"
     voice "voice_5_13m.wav"
-    m "(Wait, it's here right?)"
+    m "(Wait, that's strange. It's here, right?)"
 
 # game/script.rpy:583
 translate english start_5598a3f6:
@@ -1143,7 +1143,7 @@ translate english start_fb804258:
     # voice "voice_5_19k.wav"
     # k " （自此之後，我就在魔法協會學習魔法）"
     voice "voice_5_19k.wav"
-    k "(From that moment, I have been studing magic in the Union)"
+    k "(From that moment, I have been learning magic in the Union)"
 
 # game/script.rpy:610
 translate english start_ee074cb1:
@@ -1151,7 +1151,7 @@ translate english start_ee074cb1:
     # voice "voice_5_20k.wav"
     # k "（也協助魔法協會進行不同的任務）"
     voice "voice_5_20k.wav"
-    k "(And also help in various missions)"
+    k "(And also help the union in various missions)"
 
 # game/script.rpy:613
 translate english start_b85adc1c:
@@ -1159,7 +1159,7 @@ translate english start_b85adc1c:
     # voice "voice_5_21k.wav"
     # k "（至於卡美洛，應該就是對應這個世界的英國吧？）"
     voice "voice_5_21k.wav"
-    k "(Camelot should be refering to the UK in this world, right?)"
+    k "(Camelot should be referring to the UK in this world, right?)"
 
 # game/script.rpy:616
 translate english start_7491075d:
@@ -1175,11 +1175,21 @@ translate english start_0cf1bb46:
     # voice "voice_5_23k.wav"
     # k "（假以時日也可以傳送回原本的世界？）"
     voice "voice_5_23k.wav"
-    k "(Then I could return to the world where I came from)"
+    k "(Then I could maybe return to the world where I came from?)"
 
 # game/script.rpy:622
 translate english start_166e7d00:
 
     # "完"
     "END"
+
+# TODO: Translation updated at 2025-06-27 12:35
+
+# game/script.rpy:547
+translate english start_da5a1415:
+
+    # voice "voice_5_3m.wav" 
+    # mq "你終於醒了！你還好嗎？"
+    voice "voice_5_3m.wav" 
+    mq "You're finally awake! Are you OK?"
 
